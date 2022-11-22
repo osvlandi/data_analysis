@@ -9,7 +9,7 @@ In this notebook we will:
  - Work with missing data,
  - Calculate moving averages,
  - Data visualization (line charts, histograms and scatterplots),
- - Work with statistics functions from the Scipy library.
+ - Statistics functions from the Scipy library.
 
 In the end I discuss my findings and draw some conclusions based on the data.
 
